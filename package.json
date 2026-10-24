@@ -1,0 +1,7 @@
+{
+  "name": "tp-academie-sorciers",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "ts-node src/main.ts", "build": "tsc" },
+  "devDependencies": { "typescript": "^5.7.3", "ts-node": "^10.9.2", "@types/node": "^22.10.2" }
+}
